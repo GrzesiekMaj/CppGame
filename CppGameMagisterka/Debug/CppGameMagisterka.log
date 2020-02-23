@@ -1,2 +1,5 @@
-﻿  main.cpp
+﻿  GameMachine.cpp
+  Renderer.cpp
+S:\DEV-ZONE\CppGameMagisterka\CppGameMagisterka\src\Renderer.cpp(77,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
   CppGameMagisterka.vcxproj -> S:\DEV-ZONE\CppGameMagisterka\Debug\CppGame.exe
